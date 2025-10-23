@@ -9,3 +9,5 @@ Scripts and data for ATP-gene enrichment analyses in E. coli ΔRNR evolution exp
 | **`enrichment_ATP_fixed.py`**       | Performs Fisher’s exact tests for overall ATP-gene enrichment across all lines.                                  |
 | **`linewise_enrichment_fixed.py`**  | Runs the same analysis per evolutionary line and exports summary tables.                                         |
 | **`linewise_ATP_summary_fixed.py`** | Combines per-line outputs and performs DerSimonian–Laird meta-analysis for overall effect size.                  |
+Python ≥ 3.9
+Required libraries: pandas, numpy, scipy, statsmodels
