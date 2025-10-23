@@ -1,0 +1,297 @@
+b_number,gene_name,reactions,subsystems
+b0474,adk,ADK1|ADNK1|DADK|NDPK1|NDPK2|NDPK3|NDPK4|NDPK5|NDPK6|NDPK7|NDPK8,Nucleotide Salvage Pathway
+b2518,ndk,NDPK1|NDPK2|NDPK3|NDPK4|NDPK5|NDPK6|NDPK7|NDPK8,Nucleotide Salvage Pathway
+b3403,pck,PPCK,Anaplerotic Reactions
+b0025,ribF,RBFK,Cofactor and Prosthetic Group Biosynthesis
+b0063,araB,RBK_L1|XYLK|XYLK2,Alternate Carbon Metabolism
+b3564,xylB,DXYLK|XYLK,Alternate Carbon Metabolism|Cofactor and Prosthetic Group Biosynthesis
+b3752,rbsK,RBK,Alternate Carbon Metabolism
+b3926,glpK,GLYK,Alternate Carbon Metabolism
+b1854,pykA,PYK,Glycolysis/Gluconeogenesis
+b1676,pykF,PYK,Glycolysis/Gluconeogenesis
+b3916,pfkA,PFK|PFK_2|PFK_3,Alternate Carbon Metabolism|Glycolysis/Gluconeogenesis|Pentose Phosphate Pathway
+b2296,ackA,ACKr,Pyruvate Metabolism
+b1849,purT,ACKr|GART,Purine and Pyrimidine Biosynthesis|Pyruvate Metabolism
+b3115,tdcD,ACKr|PPAKr,Alternate Carbon Metabolism|Pyruvate Metabolism
+b0915,lpxK,TDSK,Lipopolysaccharide Biosynthesis / Recycling
+b2926,pgk,PGK,Glycolysis/Gluconeogenesis
+b2066,udk,CYTDK1|URIK1,Nucleotide Salvage Pathway
+b1238,tdk,DURIK1|TMDK1,Nucleotide Salvage Pathway
+b0477,gsk,GSNK|INSK,Nucleotide Salvage Pathway
+b2418,pdxK,HMPK1|PYDAMK|PYDXK|PYDXNK,Cofactor and Prosthetic Group Biosynthesis
+b2103,thiD,HMPK1|PMPK,Cofactor and Prosthetic Group Biosynthesis
+b2316,accD,ACCOAC,Membrane Lipid Metabolism
+b3255,accB,ACCOAC,Membrane Lipid Metabolism
+b3256,accC,ACCOAC,Membrane Lipid Metabolism
+b0185,accA,ACCOAC,Membrane Lipid Metabolism
+b2615,nadK,NADK,Cofactor and Prosthetic Group Biosynthesis
+b1208,ispE,CDPMEK,Cofactor and Prosthetic Group Biosynthesis
+b3526,kdgK,DDGLK,Alternate Carbon Metabolism
+b1636,pdxY,PYDXK,Cofactor and Prosthetic Group Biosynthesis
+b0394,mak,HEX7,Alternate Carbon Metabolism
+b0910,cmk,CYTK1|CYTK2|UMPK,Nucleotide Salvage Pathway
+b0171,pyrH,UMPK,Nucleotide Salvage Pathway
+b2780,pyrG,CTPS2,Purine and Pyrimidine Biosynthesis
+b3974,coaA,PNTK,Cofactor and Prosthetic Group Biosynthesis
+b0103,coaE,DPCOAK,Cofactor and Prosthetic Group Biosynthesis
+b2104,thiM,HETZK,Cofactor and Prosthetic Group Biosynthesis
+b0003,thrB,4HTHRK|HSK,Glycine and Serine Metabolism|Threonine and Lysine Metabolism
+b2988,gss,GSPMDS,Arginine and Proline Metabolism
+b3648,gmk,DGK1|GK1,Nucleotide Salvage Pathway
+b1098,tmk,DTMPK,Nucleotide Salvage Pathway
+b2168,fruK,FRUK,Alternate Carbon Metabolism
+b2803,fucK,FCLK,Alternate Carbon Metabolism
+b4069,acs,ACCOAL,Alternate Carbon Metabolism
+b0335,prpE,ACCOAL,Alternate Carbon Metabolism
+b0085,murE,UAAGDS,Cell Envelope Biosynthesis
+b0091,murC,UAMAS,Cell Envelope Biosynthesis
+b0088,murD,UAMAGS,Cell Envelope Biosynthesis
+b0086,murF,UGMDDS,Cell Envelope Biosynthesis
+b0778,bioD,DBTS,Cofactor and Prosthetic Group Biosynthesis
+b3222,nanK,AMANK,Alternate Carbon Metabolism
+b2688,gshA,GLUCYS,Cofactor and Prosthetic Group Biosynthesis
+b0002,thrA,ASPK,Threonine and Lysine Metabolism
+b3940,metL,ASPK,Threonine and Lysine Metabolism
+b4024,lysC,ASPK,Threonine and Lysine Metabolism
+b1993,cobU,ADOCBIK,Cofactor and Prosthetic Group Biosynthesis
+b0417,thiL,TMPK,Cofactor and Prosthetic Group Biosynthesis
+b3124,garK,GLYCK2,Glycine and Serine Metabolism
+b0521,ybcF,CBMKr,Nitrogen Metabolism
+b4005,purD,PRAGSr,Purine and Pyrimidine Biosynthesis
+b2557,purL,PRFGS,Purine and Pyrimidine Biosynthesis
+b0049,apaH,AP5AH,Nucleotide Salvage Pathway
+b0522,purK,AIRC2,Purine and Pyrimidine Biosynthesis
+b2388,glk,HEX1,Glycolysis/Gluconeogenesis
+b0032,carA,CBPS,Arginine and Proline Metabolism
+b0033,carB,CBPS,Arginine and Proline Metabolism
+b0242,proB,GLU5K,Arginine and Proline Metabolism
+b1106,thiK,TMK,Cofactor and Prosthetic Group Biosynthesis
+b2750,cysC,ADSK,Cysteine Metabolism
+b2423,cysW,MOBDabcpp|SELabcpp|SLNTabcpp|SULabcpp|TSULabcpp,Inorganic Ion Transport and Metabolism
+b2424,cysU,MOBDabcpp|SELabcpp|SLNTabcpp|SULabcpp|TSULabcpp,Inorganic Ion Transport and Metabolism
+b2422,cysA,MOBDabcpp|SELabcpp|SLNTabcpp|SULabcpp|TSULabcpp,Inorganic Ion Transport and Metabolism
+b2425,cysP,MOBDabcpp|SELabcpp|SLNTabcpp|SULabcpp|TSULabcpp,Inorganic Ion Transport and Metabolism
+b0764,modB,MOBDabcpp|SULabcpp|TUNGSabcpp,Inorganic Ion Transport and Metabolism
+b0765,modC,MOBDabcpp|SULabcpp|TUNGSabcpp,Inorganic Ion Transport and Metabolism
+b0763,modA,MOBDabcpp|SULabcpp|TUNGSabcpp,Inorganic Ion Transport and Metabolism
+b3917,sbp,MOBDabcpp|SELabcpp|SLNTabcpp|SULabcpp|TSULabcpp,Inorganic Ion Transport and Metabolism
+b3693,dgoK,DDGALK,Alternate Carbon Metabolism
+b0365,tauA,BUTSO3abcpp|ISETACabcpp|TAURabcpp,Transport, Inner Membrane
+b0367,tauC,BUTSO3abcpp|ISETACabcpp|TAURabcpp,Transport, Inner Membrane
+b0366,tauB,BUTSO3abcpp|ISETACabcpp|TAURabcpp,Transport, Inner Membrane
+b0066,thiQ,THMabcpp,Transport, Inner Membrane
+b0068,thiB,THMabcpp,Transport, Inner Membrane
+b0067,thiP,THMabcpp,Transport, Inner Membrane
+b3456,livM,ALAabcpp|ILEabcpp|LEUabcpp|THRabcpp|VALabcpp,Transport, Inner Membrane
+b3455,livG,ALAabcpp|ILEabcpp|LEUabcpp|THRabcpp|VALabcpp,Transport, Inner Membrane
+b3460,livJ,ALAabcpp|ILEabcpp|LEUabcpp|THRabcpp|VALabcpp,Transport, Inner Membrane
+b3457,livH,ALAabcpp|ILEabcpp|LEUabcpp|THRabcpp|VALabcpp,Transport, Inner Membrane
+b3454,livF,ALAabcpp|ILEabcpp|LEUabcpp|THRabcpp|VALabcpp,Transport, Inner Membrane
+b3568,xylH,XYLabcpp,Transport, Inner Membrane
+b3566,xylF,XYLabcpp,Transport, Inner Membrane
+b3567,xylG,XYLabcpp,Transport, Inner Membrane
+b3052,hldE,GMHEPK,Lipopolysaccharide Biosynthesis / Recycling
+b0152,fhuD,ARBTNabcpp|CPGNabcpp|FE3HOXabcpp|FECRMabcpp|FEOXAMabcpp,Inorganic Ion Transport and Metabolism|Transport, Inner Membrane
+b0153,fhuB,ARBTNabcpp|CPGNabcpp|FE3HOXabcpp|FECRMabcpp|FEOXAMabcpp,Inorganic Ion Transport and Metabolism|Transport, Inner Membrane
+b0151,fhuC,ARBTNabcpp|CPGNabcpp|FE3HOXabcpp|FECRMabcpp|FEOXAMabcpp,Inorganic Ion Transport and Metabolism|Transport, Inner Membrane
+b1709,btuD,ADOCBLabcpp|CBIuabcpp|CBL1abcpp,Transport, Inner Membrane
+b0158,btuF,ADOCBLabcpp|CBIuabcpp|CBL1abcpp,Transport, Inner Membrane
+b1711,btuC,ADOCBLabcpp|CBIuabcpp|CBL1abcpp,Transport, Inner Membrane
+b0589,fepG,DHBSZ3FEabcpp|FEENTERabcpp,Inorganic Ion Transport and Metabolism
+b0592,fepB,DHBSZ3FEabcpp|FEENTERabcpp,Inorganic Ion Transport and Metabolism
+b0590,fepD,DHBSZ3FEabcpp|FEENTERabcpp,Inorganic Ion Transport and Metabolism
+b0588,fepC,DHBSZ3FEabcpp|FEENTERabcpp,Inorganic Ion Transport and Metabolism
+b3739,atpI,ATPS4rpp,Oxidative Phosphorylation
+b3731,atpC,ATPS4rpp,Oxidative Phosphorylation
+b3733,atpG,ATPS4rpp,Oxidative Phosphorylation
+b3735,atpH,ATPS4rpp,Oxidative Phosphorylation
+b3734,atpA,ATPS4rpp,Oxidative Phosphorylation
+b3732,atpD,ATPS4rpp,Oxidative Phosphorylation
+b3738,atpB,ATPS4rpp,Oxidative Phosphorylation
+b3736,atpF,ATPS4rpp,Oxidative Phosphorylation
+b3737,atpE,ATPS4rpp,Oxidative Phosphorylation
+b2308,hisQ,ARGabcpp|HISabcpp|LYSabcpp|ORNabcpp,Transport, Inner Membrane
+b2306,hisP,ARGabcpp|HISabcpp|LYSabcpp|ORNabcpp,Transport, Inner Membrane
+b2310,argT,ARGabcpp|LYSabcpp|ORNabcpp,Transport, Inner Membrane
+b2307,hisM,ARGabcpp|HISabcpp|LYSabcpp|ORNabcpp,Transport, Inner Membrane
+b0864,artP,ARGabcpp,Transport, Inner Membrane
+b0860,artJ,ARGabcpp,Transport, Inner Membrane
+b0863,artI,ARGabcpp,Transport, Inner Membrane
+b0862,artQ,ARGabcpp,Transport, Inner Membrane
+b0861,artM,ARGabcpp,Transport, Inner Membrane
+b4087,alsA,ALLabcpp|RIBabcpp,Transport, Inner Membrane
+b4088,alsB,ALLabcpp|RIBabcpp,Transport, Inner Membrane
+b4086,alsC,ALLabcpp|RIBabcpp,Transport, Inner Membrane
+b4460,araH,ARBabcpp,Transport, Inner Membrane
+b1901,araF,ARBabcpp,Transport, Inner Membrane
+b1900,araG,ARBabcpp,Transport, Inner Membrane
+b0654,gltJ,ASPabcpp|GLUabcpp,Transport, Inner Membrane
+b0652,gltL,ASPabcpp|GLUabcpp,Transport, Inner Membrane
+b0655,gltI,ASPabcpp|GLUabcpp,Transport, Inner Membrane
+b0653,gltK,ASPabcpp|GLUabcpp,Transport, Inner Membrane
+b4287,fecE,FE3DCITabcpp,Inorganic Ion Transport and Metabolism
+b4288,fecD,FE3DCITabcpp,Inorganic Ion Transport and Metabolism
+b4289,fecC,FE3DCITabcpp,Inorganic Ion Transport and Metabolism
+b4290,fecB,FE3DCITabcpp,Inorganic Ion Transport and Metabolism
+b2315,folC,DHFS,Cofactor and Prosthetic Group Biosynthesis
+b2129,yehX,CHLabcpp|GLYBabcpp,Transport, Inner Membrane
+b2128,yehW,CHLabcpp|GLYBabcpp,Transport, Inner Membrane
+b2131,osmF,CHLabcpp|GLYBabcpp,Transport, Inner Membrane
+b2130,yehY,CHLabcpp|GLYBabcpp,Transport, Inner Membrane
+b3409,feoB,FE2abcpp,Inorganic Ion Transport and Metabolism
+b1918,yecS,CYSabcpp,Transport, Inner Membrane
+b1920,fliY,CYSabcpp,Transport, Inner Membrane
+b1917,yecC,CYSabcpp,Transport, Inner Membrane
+b1119,nagK,ACGAMK,Murein Recycling
+b0887,cydD,CYSabc2pp|GTHRDabc2pp,Transport, Inner Membrane
+b0886,cydC,CYSabc2pp|GTHRDabc2pp,Transport, Inner Membrane
+b0934,ssuC,BUTSO3abcpp|ETHSO3abcpp|ISETACabcpp|MSO3abcpp|SULFACabcpp,Transport, Inner Membrane
+b0933,ssuB,BUTSO3abcpp|ETHSO3abcpp|ISETACabcpp|MSO3abcpp|SULFACabcpp,Transport, Inner Membrane
+b0936,ssuA,BUTSO3abcpp|ETHSO3abcpp|ISETACabcpp|MSO3abcpp|SULFACabcpp,Transport, Inner Membrane
+b2476,purC,PRASCSi,Purine and Pyrimidine Biosynthesis
+b3374,frlD,FRULYSK,Alternate Carbon Metabolism
+b2198,ccmD,PHEMEabcpp,Transport, Inner Membrane
+b2199,ccmC,PHEMEabcpp,Transport, Inner Membrane
+b2197,ccmE,PHEMEabcpp,Transport, Inner Membrane
+b2200,ccmB,PHEMEabcpp,Transport, Inner Membrane
+b2201,ccmA,PHEMEabcpp,Transport, Inner Membrane
+b0914,msbA,COLIPAabcpp|K2L4Aabcpp|LIPACabcpp|LIPAabcpp|PA120abcpp|PA140abcpp|PA141abcpp|PA160abcpp|PA161abcpp|PA180abcpp|PA181abcpp|PE120abcpp|PE140abcpp|PE141abcpp|PE160abcpp|PE161abcpp|PE180abcpp|PE181abcpp|PG120abcpp|PG140abcpp|PG141abcpp|PG160abcpp|PG161abcpp|PG180abcpp|PG181abcpp|PGP120abcpp|PGP140abcpp|PGP141abcpp|PGP160abcpp|PGP161abcpp|PGP180abcpp|PGP181abcpp,Lipopolysaccharide Biosynthesis / Recycling|Transport, Inner Membrane
+b0484,copA,CU1abcpp,Inorganic Ion Transport and Metabolism
+b3469,zntA,CD2abcpp|COBALT2abcpp|CU2abcpp|HG2abcpp|NI2abcpp|ZN2abcpp,Inorganic Ion Transport and Metabolism
+b1245,oppC,3PEPTabcpp|4PEPTabcpp,Murein Recycling
+b1247,oppF,3PEPTabcpp|4PEPTabcpp,Murein Recycling
+b1244,oppB,3PEPTabcpp|4PEPTabcpp,Murein Recycling
+b1329,mppA,3PEPTabcpp,Murein Recycling
+b1246,oppD,3PEPTabcpp|4PEPTabcpp,Murein Recycling
+b2177,yejA,3PEPTabcpp|4PEPTabcpp,Murein Recycling
+b2180,yejF,3PEPTabcpp|4PEPTabcpp,Murein Recycling
+b2178,yejB,3PEPTabcpp|4PEPTabcpp,Murein Recycling
+b2179,yejE,3PEPTabcpp|4PEPTabcpp,Murein Recycling
+b1243,oppA,3PEPTabcpp|4PEPTabcpp,Murein Recycling
+b1859,znuB,ZNabcpp,Inorganic Ion Transport and Metabolism
+b1858,znuC,ZNabcpp,Inorganic Ion Transport and Metabolism
+b1857,znuA,ZNabcpp,Inorganic Ion Transport and Metabolism
+b4094,phnN,R15BPK,Alternate Carbon Metabolism
+b0698,kdpA,Kabcpp,Inorganic Ion Transport and Metabolism
+b0697,kdpB,Kabcpp,Inorganic Ion Transport and Metabolism
+b0696,kdpC,Kabcpp,Inorganic Ion Transport and Metabolism
+b4513,kdpF,Kabcpp,Inorganic Ion Transport and Metabolism
+b3458,livK,LEUabcpp,Transport, Inner Membrane
+b4033,malF,14GLUCANabcpp|MALTHXabcpp|MALTPTabcpp|MALTTRabcpp|MALTTTRabcpp|MALTabcpp,Transport, Inner Membrane
+b4035,malK,14GLUCANabcpp|MALTHXabcpp|MALTPTabcpp|MALTTRabcpp|MALTTTRabcpp|MALTabcpp,Transport, Inner Membrane
+b4032,malG,14GLUCANabcpp|MALTHXabcpp|MALTPTabcpp|MALTTRabcpp|MALTTTRabcpp|MALTabcpp,Transport, Inner Membrane
+b4034,malE,14GLUCANabcpp|MALTHXabcpp|MALTPTabcpp|MALTTRabcpp|MALTTTRabcpp|MALTabcpp,Transport, Inner Membrane
+b0198,metI,METDabcpp|METabcpp,Transport, Inner Membrane
+b0197,metQ,METDabcpp|METabcpp,Transport, Inner Membrane
+b0199,metN,METDabcpp|METabcpp,Transport, Inner Membrane
+b1297,puuA,GGPTRCS,Alternate Carbon Metabolism
+b3580,lyxK,3KGK|XYLK2,Alternate Carbon Metabolism
+b3725,pstB,PIuabcpp,Inorganic Ion Transport and Metabolism
+b3727,pstC,PIuabcpp,Inorganic Ion Transport and Metabolism
+b3728,pstS,PIuabcpp,Inorganic Ion Transport and Metabolism
+b3726,pstA,PIuabcpp,Inorganic Ion Transport and Metabolism
+b2677,proV,CRNDabcpp|CRNabcpp|CTBTabcpp|GLYBabcpp|PROabcpp,Transport, Inner Membrane
+b2678,proW,CRNDabcpp|CRNabcpp|CTBTabcpp|GLYBabcpp|PROabcpp,Transport, Inner Membrane
+b2679,proX,CRNDabcpp|CRNabcpp|CTBTabcpp|GLYBabcpp|PROabcpp,Transport, Inner Membrane
+b0854,potF,PTRCabcpp,Transport, Inner Membrane
+b0855,potG,PTRCabcpp,Transport, Inner Membrane
+b0857,potI,PTRCabcpp,Transport, Inner Membrane
+b0856,potH,PTRCabcpp,Transport, Inner Membrane
+b1440,ydcS,PTRCabcpp|SPMDabcpp,Transport, Inner Membrane
+b1442,ydcU,PTRCabcpp|SPMDabcpp,Transport, Inner Membrane
+b1441,ydcT,PTRCabcpp|SPMDabcpp,Transport, Inner Membrane
+b1443,ydcV,PTRCabcpp|SPMDabcpp,Transport, Inner Membrane
+b1125,potB,PTRCabcpp|SPMDabcpp,Transport, Inner Membrane
+b1126,potA,PTRCabcpp|SPMDabcpp,Transport, Inner Membrane
+b1124,potC,PTRCabcpp|SPMDabcpp,Transport, Inner Membrane
+b1123,potD,PTRCabcpp|SPMDabcpp,Transport, Inner Membrane
+b3480,nikE,NI2uabcpp,Inorganic Ion Transport and Metabolism
+b3476,nikA,NI2uabcpp,Inorganic Ion Transport and Metabolism
+b3479,nikD,NI2uabcpp,Inorganic Ion Transport and Metabolism
+b3477,nikB,NI2uabcpp,Inorganic Ion Transport and Metabolism
+b3478,nikC,NI2uabcpp,Inorganic Ion Transport and Metabolism
+b4242,mgtA,MG2uabcpp|NI2uabcpp,Inorganic Ion Transport and Metabolism
+b4084,alsK,ALLK,Alternate Carbon Metabolism
+b4230,ytfT,GALabcpp|RIBabcpp,Transport, Inner Membrane
+b4227,ytfQ,GALabcpp|RIBabcpp,Transport, Inner Membrane
+b4485,ytfR,GALabcpp|RIBabcpp,Transport, Inner Membrane
+b4231,yjfF,GALabcpp|RIBabcpp,Transport, Inner Membrane
+b3750,rbsC,RIBabcpp,Transport, Inner Membrane
+b3751,rbsB,RIBabcpp,Transport, Inner Membrane
+b3749,rbsA,RIBabcpp,Transport, Inner Membrane
+b3748,rbsD,RIBabcpp,Transport, Inner Membrane
+b0811,glnH,GLNabcpp,Transport, Inner Membrane
+b0809,glnQ,GLNabcpp,Transport, Inner Membrane
+b0810,glnP,GLNabcpp,Transport, Inner Membrane
+b2309,hisJ,HISabcpp,Transport, Inner Membrane
+b3959,argB,ACGK,Arginine and Proline Metabolism
+b2501,ppk,PPK|PPK2,Oxidative Phosphorylation
+b3437,gntK,GNK,Alternate Carbon Metabolism
+b4268,idnK,GNK,Alternate Carbon Metabolism
+b3904,rhaB,RMK,Alternate Carbon Metabolism
+b3452,ugpA,G3PCabcpp|G3PEabcpp|G3PGabcpp|G3PIabcpp|G3PSabcpp|GLYC2Pabcpp|GLYC3Pabcpp,Transport, Inner Membrane
+b3451,ugpE,G3PCabcpp|G3PEabcpp|G3PGabcpp|G3PIabcpp|G3PSabcpp|GLYC2Pabcpp|GLYC3Pabcpp,Transport, Inner Membrane
+b3453,ugpB,G3PCabcpp|G3PEabcpp|G3PGabcpp|G3PIabcpp|G3PSabcpp|GLYC2Pabcpp|GLYC3Pabcpp,Transport, Inner Membrane
+b3450,ugpC,G3PCabcpp|G3PEabcpp|G3PGabcpp|G3PIabcpp|G3PSabcpp|GLYC2Pabcpp|GLYC3Pabcpp,Transport, Inner Membrane
+b0931,pncB,NAMNPP,Cofactor and Prosthetic Group Biosynthesis
+b2148,mglC,GALabcpp|GLCabcpp,Transport, Inner Membrane
+b2149,mglA,GALabcpp|GLCabcpp,Transport, Inner Membrane
+b2150,mglB,GALabcpp|GLCabcpp,Transport, Inner Membrane
+b1640,anmK,ANHMK,Murein Recycling
+b3390,aroK,SHKK,Tyrosine, Tryptophan, and Phenylalanine Metabolism
+b0388,aroL,SHKK,Tyrosine, Tryptophan, and Phenylalanine Metabolism
+b3502,arsB,ASO3t8pp,Transport, Inner Membrane
+b3870,glnA,GLNS,Glutamate Metabolism
+b2947,gshB,GTHS,Cofactor and Prosthetic Group Biosynthesis
+b0381,ddlA,ALAALAr,Cell Envelope Biosynthesis
+b0092,ddlB,ALAALAr,Cell Envelope Biosynthesis
+b3630,waaP,HEPK1,Lipopolysaccharide Biosynthesis / Recycling
+b3625,waaY,HEPK2,Lipopolysaccharide Biosynthesis / Recycling
+b0729,sucD,SUCOAS,Citric Acid Cycle
+b0728,sucC,SUCOAS,Citric Acid Cycle
+b0650,hscC,NTP1,Biomass and maintenance functions
+b4161,rsgA,NTP1,Biomass and maintenance functions
+b2499,purM,PRAIS,Purine and Pyrimidine Biosynthesis
+b0757,galK,GALKr,Alternate Carbon Metabolism
+b3544,dppA,ALAALAabcpp|CGLYabcpp|PROGLYabcpp,Transport, Inner Membrane
+b3542,dppC,ALAALAabcpp|CGLYabcpp|PROGLYabcpp,Transport, Inner Membrane
+b3543,dppB,ALAALAabcpp|CGLYabcpp|PROGLYabcpp,Transport, Inner Membrane
+b3540,dppF,ALAALAabcpp|CGLYabcpp|PROGLYabcpp,Transport, Inner Membrane
+b3541,dppD,ALAALAabcpp|CGLYabcpp|PROGLYabcpp,Transport, Inner Membrane
+b1487,ddpA,ALAALAabcpp,Transport, Inner Membrane
+b1486,ddpB,ALAALAabcpp,Transport, Inner Membrane
+b1483,ddpF,ALAALAabcpp,Transport, Inner Membrane
+b1485,ddpC,ALAALAabcpp,Transport, Inner Membrane
+b1484,ddpD,ALAALAabcpp,Transport, Inner Membrane
+b0831,gsiC,GTHRDabcpp,Transport, Inner Membrane
+b0830,gsiB,GTHRDabcpp,Transport, Inner Membrane
+b0829,gsiA,GTHRDabcpp,Transport, Inner Membrane
+b0832,gsiD,GTHRDabcpp,Transport, Inner Membrane
+b1723,pfkB,PFK,Glycolysis/Gluconeogenesis
+b0514,glxK,GLYCK,Glyoxylate Metabolism
+b4042,dgkA,DAGK120|DAGK140|DAGK141|DAGK160|DAGK161|DAGK180|DAGK181,Glycerophospholipid Metabolism
+b4233,mpl,UM3PL|UM4PL,Murein Recycling
+b0037,caiC,CRNCAL2|CRNDCAL2|CTBTCAL2,Oxidative Phosphorylation
+b4262,lptG,ACOLIPAabctex|CLIPAabctex|COLIPAPabctex|COLIPAabctex|ECA4COLIPAabctex|ENLIPAabctex|K2L4Aabctex|LIPAabctex|O16A4COLIPAabctex,Lipopolysaccharide Biosynthesis / Recycling
+b4261,lptF,ACOLIPAabctex|CLIPAabctex|COLIPAPabctex|COLIPAabctex|ECA4COLIPAabctex|ENLIPAabctex|K2L4Aabctex|LIPAabctex|O16A4COLIPAabctex,Lipopolysaccharide Biosynthesis / Recycling
+b3199,lptC,ACOLIPAabctex|CLIPAabctex|COLIPAPabctex|COLIPAabctex|ECA4COLIPAabctex|ENLIPAabctex|K2L4Aabctex|LIPAabctex|O16A4COLIPAabctex,Lipopolysaccharide Biosynthesis / Recycling
+b3201,lptB,ACOLIPAabctex|CLIPAabctex|COLIPAPabctex|COLIPAabctex|ECA4COLIPAabctex|ENLIPAabctex|K2L4Aabctex|LIPAabctex|O16A4COLIPAabctex,Lipopolysaccharide Biosynthesis / Recycling
+b3200,lptA,ACOLIPAabctex|CLIPAabctex|COLIPAPabctex|COLIPAabctex|ECA4COLIPAabctex|ENLIPAabctex|K2L4Aabctex|LIPAabctex|O16A4COLIPAabctex,Lipopolysaccharide Biosynthesis / Recycling
+b0054,lptD,ACOLIPAabctex|CLIPAabctex|COLIPAPabctex|COLIPAabctex|ECA4COLIPAabctex|ENLIPAabctex|K2L4Aabctex|LIPAabctex|O16A4COLIPAabctex,Lipopolysaccharide Biosynthesis / Recycling
+b0641,lptE,ACOLIPAabctex|CLIPAabctex|COLIPAPabctex|COLIPAabctex|ECA4COLIPAabctex|ENLIPAabctex|K2L4Aabctex|LIPAabctex|O16A4COLIPAabctex,Lipopolysaccharide Biosynthesis / Recycling
+b1680,sufS,S2FE2SR|S2FE2SS|S2FE2SS2,Cofactor and Prosthetic Group Biosynthesis
+b1679,sufE,S2FE2SR|S2FE2SS|S2FE2SS2,Cofactor and Prosthetic Group Biosynthesis
+b1682,sufC,S2FE2SR|S2FE2SS|S2FE2SS2,Cofactor and Prosthetic Group Biosynthesis
+b1681,sufD,S2FE2SR|S2FE2SS|S2FE2SS2,Cofactor and Prosthetic Group Biosynthesis
+b1683,sufB,S2FE2SR|S2FE2SS|S2FE2SS2,Cofactor and Prosthetic Group Biosynthesis
+b0444,queC,CCGS,Cofactor and Prosthetic Group Biosynthesis
+b1511,lsrK,AI2K,Methionine Metabolism
+b1516,lsrB,AI2abcpp,Transport, Inner Membrane
+b1513,lsrA,AI2abcpp,Transport, Inner Membrane
+b1515,lsrD,AI2abcpp,Transport, Inner Membrane
+b1514,lsrC,AI2abcpp,Transport, Inner Membrane
+b3883,yihV,6D6SFK,Alternate Carbon Metabolism
+b2166,psuK,PSURIK,Purine and Pyrimidine Biosynthesis
+b4104,phnE,MEPNabcpp,Transport, Inner Membrane
+b4105,phnD,MEPNabcpp,Transport, Inner Membrane
+b4106,phnC,MEPNabcpp,Transport, Inner Membrane
